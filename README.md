@@ -25,3 +25,6 @@ seaborn — For more aesthetic, color-rich visualizations
 
 Libraries: requests, pandas, matplotlib, seaborn
 
+OUTPUT:
+https://github.com/khushi2125/API-INTEGRATION-AND-DATA-VISUALIZATION/issues/1#issue-3265334181
+
