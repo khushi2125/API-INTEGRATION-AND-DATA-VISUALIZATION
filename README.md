@@ -6,7 +6,7 @@ DOMAIN : PYTHON PROGRAMMING
 DURATION : 8 WEEKS 
 MENTOR : NEELA SANTOSH
 
-:
+
 
 🦠 COVID-19 Data Visualization (Python, Matplotlib & Seaborn)
 This project fetches real-time COVID-19 data from a public API and visualizes the top 10 countries with the highest number of confirmed cases using Python, matplotlib, and seaborn.
