@@ -26,5 +26,4 @@ seaborn — For more aesthetic, color-rich visualizations
 Libraries: requests, pandas, matplotlib, seaborn
 
 OUTPUT:
-https://github.com/khushi2125/API-INTEGRATION-AND-DATA-VISUALIZATION/issues/1#issue-3265334181
-
+<img width="1280" height="612" alt="Image" src="https://github.com/user-attachments/assets/76a20adf-4a82-4fe6-8e50-db716d1c7974" />
